@@ -24,7 +24,7 @@ Skills: HTML/CSS JavaScript /React /Ruby on Rails /SQL/PostgreSQL/ Git/GitHub /T
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmunyentwari9)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmunyentwari9&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmunyentwari9&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmunyentwari9)  
 
