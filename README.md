@@ -26,8 +26,5 @@ Skills: HTML/CSS JavaScript /React /Ruby on Rails /SQL/PostgreSQL/ Git/GitHub /T
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailmunyentwari9&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ismailmunyentwari9)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ismailmunyentwari9)  
 
-![Profile views](https://gpvc.arturio.dev/ismailmunyentwari9)  
