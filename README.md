@@ -15,10 +15,19 @@
 
 ###
 
+###
+
+<h3 align="left">Some people have a shelf full of books. I have a shelf full  of participation<br> trophies. You can tell who the real intellectual is here.😎</h3>
+
+###
+[![trophy](https://github-profile-trophy.vercel.app/?username=ismailmunyentwari9)](https://github.com/ismailmunyentwari9)
+
 <h3 align="left" >I may not speak the language of love 💔, but I do speak <br>
   the language of bugs - I'm a software developer who works <br> with languages like :</h3>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
