@@ -1,24 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">My name is Ismail and I'm a Full stack Developer, from Microverse 🏳</h2>
+<h2 align="center">My name is Ismail and I'm a Full stack Developer, from Microverse 🏳</h2>
 
 ###
 
-<h4 align="left">I'm a full-stack developer with experience in building web applications using HTML, CSS, JavaScript, React, Ruby on Rails, and SQL/PostgreSQL.</h4>
+<h4 align="center">I'm a full-stack developer with experience in building web applications <br>
+  using HTML, CSS, JavaScript, React, Ruby on Rails, and SQL/PostgreSQL.</h4>
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2019🙄<br>📚 I'm currently honing my skills 🍧<br>🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>🎲 Fun fact: I'm funny 🤣</h4>
+<h4 align="center">✨ Creating bugs since 2019🙄<br>📚 I'm currently honing my skills 🍧<br>🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>🎲 Fun fact: I'm funny 🤣</h4>
 
 ###
 
-<h3 align="left">I may not speak the language of love 💔, but I do speak the language of bugs - I'm a software developer who works with languages like :</h3>
+<h3 align="center" >I may not speak the language of love 💔, but I do speak <br>
+  the language of bugs - I'm a software developer who works <br> with languages like :</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -30,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
@@ -42,7 +44,7 @@
 
 ###
 
-<h4 align="left">My computer screen is a funny thing, it's a love-hate relationship. While it's full of code and possibilities, I keep trying to find a picture of a beach to use as my background, but all I ever see is 'beach.js'. I'm a master of creating websites that look great on any screen... except mine, and if you think my screen is full of code now, you should have seen it before I cleaned it up! 😋</h4>
+<h5 align="center">My computer screen is a funny thing, it's a love-hate relationship. While it's full <br> of code and possibilities, I keep trying to find a picture of a beach to use as my <br> background, but all I ever see is 'beach.js'. I'm a master  of creating websites that <br> look great on any screen... except mine, and if you think my screen <br> is full of code now, you should have seen it before I cleaned it up! 😋</h5>
 
 ###
 
@@ -52,7 +54,7 @@
 
 ###
 
-<h3 align="left">Let's join forces like Batman and Robin, or like peanut butter and jelly. We'll make an unstoppable duo. Drop me a message! 💌</h3>
+<h3 align="center">Let's join forces like Batman and Robin, or like peanut <br>butter and jelly. We'll make an unstoppable duo. <br>Drop me a message! 💌</h3>
 
 ###
 
@@ -62,7 +64,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
