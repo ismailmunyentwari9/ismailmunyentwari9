@@ -16,9 +16,7 @@
 ###
 
 
-<h3 align="left">Some people have a shelf full of books. I have a shelf full  of participation<br> trophies. You can tell who the real intellectual is here.😎</h3>
 
-###
 
 <br clear="both">
 
@@ -32,6 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&username=ismailmunyentwari9" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ismailmunyentwari9" height="150" alt="languages graph"  />
 </div>
+
+###
+<h3 align="left">Some people have a shelf full of books. I have a shelf full  of participation<br> trophies. You can tell who the real intellectual is here.😎</h3>
 
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=ismailmunyentwari9)](https://github.com/ismailmunyentwari9)
