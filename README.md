@@ -92,8 +92,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ismailmunyentwari9/ismailmunyentwari9/blob/output/snake.svg" alt="Snake animation" />
 
 ###
