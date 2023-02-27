@@ -11,7 +11,12 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2019🙄<br>📚 I'm currently honing my skills 🍧<br>🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>🎲 Fun fact: I'm funny 🤣</h4>
+<h4 align="left">✨ Creating bugs since 2019🙄<br>
+  📚 I'm currently honing my skills 🍧<br>
+  🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
+  📫 How to reach me, <a href="mailto:ismailmunyentwari9@gmail.com">Send me Email📧</a><br>
+  🔗 Know about my experiences <a href="https://www.linkedin.com/in/munyentwari-ismail-754718191/">Linked</a><br>
+  🎲 Fun fact: I'm funny 🤣</h4>
 
 ###
 
