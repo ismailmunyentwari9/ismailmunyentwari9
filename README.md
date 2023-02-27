@@ -11,7 +11,11 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2019🙄<br>
+<h4 align="left">
+  📚 My Title: Full-Stack developer 🧰<br>
+  📚My Location: East Africa 🌍<br>
+  🤝 I’m available for freelancing.💸💰<br>
+  ✨ Creating bugs since 2019🙄<br>
   📚 I'm currently honing my skills 🍧<br>
   🎯 Goals: To be recognized as Hacker for humanity 👌🏼<br>
   📫 How to reach me, <a href="mailto:ismailmunyentwari9@gmail.com">Send me Email📧</a><br>
