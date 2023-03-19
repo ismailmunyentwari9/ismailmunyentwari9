@@ -1,13 +1,4 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="center">My name is Ismail and I'm a Full stack Developer, from Microverse 🏳</h2>
-
-###
-
-<h4 align="left">I'm a full-stack developer with experience in building web applications <br>
-  using HTML, CSS, JavaScript, React, Ruby on Rails, and SQL/PostgreSQL.</h4>
+![Header](./github-header-image.png)
 
 ###
 
